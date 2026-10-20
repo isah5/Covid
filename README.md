@@ -45,6 +45,3 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn e Jupyter Notebook.
    `pip install pandas numpy matplotlib seaborn scikit-learn jupyter`
 3. Abra os notebooks com `jupyter notebook`.
 
-## Integrantes
-- Isabelle (isah5)
-- *(adicione aqui os nomes do grupo)*
